@@ -1,7 +1,10 @@
 # Projet-9-Portofolio
-- Évaluer mes compétences et rassembler les preuves dans un tableau de bord 
 
-- Créer un portfolio pour mettre en valeur mon travail
+objectives :
+- Evaluate my skills and gather evidence in a dashboard
+
+- Create a portfolio to showcase my work
+ 
 
 
 1-Drawing of the dashboard in the form of a diagram or "mock-up" on Miro
