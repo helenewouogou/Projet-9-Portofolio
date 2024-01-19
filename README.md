@@ -17,7 +17,7 @@ objectives :
 
 4- Creating a portfolio on Github
 
-Methodology/tools used: Excel, Tableau Software, Github
+Methodology/tools used: Miro, Excel, Tableau Software, Github
 
 Results obtained: Produce dashboards with Tableau and my project portofolio 
 
